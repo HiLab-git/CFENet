@@ -9,7 +9,7 @@ dermoscopic images, segmentation of brain tumors in magnetic resonance (MR) imag
 The skin lesion data set can be downloaded from ISIC.
 The ISIC 2017 challenge dataset contains a total of 2,750 dermoscopy images, of which 2,000 were used for training, 150 were used for validation and the last 600 were used for testing.
 Our experimental results are shown in the table below.
-
+![image text](https://github.com/WH-HuanWang/CFENet/blob/master/img-storage/skin_result-1.png)
 
 
 
