@@ -1,6 +1,6 @@
 # CFENet_Cascaded-Feature-Enhancement-Network
 
-Code for our article (High-Low Level Features Enhancement with Improved Attention Method for Medical Image Segmentation)
+Code for our article (High-Low Level Features Enhancement with Improved Attention Method for Medical Image Segmentation).
 This paper proposes a Low-level Feature Enhancement Module (LFH), a High-level Feature Enhancement Module (HFE) and a Cascaded
 Feature Enhancement Network. We evaluated our CFENet and proposed modules on three challenging datasets of skin lesion segmentation in
 dermoscopic images, segmentation of brain tumors in magnetic resonance (MR) images and 3D VBs segmentation.
